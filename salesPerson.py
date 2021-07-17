@@ -1,4 +1,5 @@
 class Pants:
+    """its's from the aws machine learning course"""
     """The Pants class represents an article of clothing sold in a store
     """
     
