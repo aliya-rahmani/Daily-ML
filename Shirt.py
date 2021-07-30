@@ -2,6 +2,7 @@
 
 You've seen what a class looks like and how to instantiate an object. Now it's your turn to write code that insantiates a shirt object.
 
+
 # Explanation of the Code
 This exercise using Jupyter notebook includes three files:
 - shirt_exercise.ipynb, which is the file you are currently looking at
